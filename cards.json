@@ -42,5 +42,14 @@
     "lat": 51.1642292,
     "lng": 10.4541194,
     "color": "#FE1DFE"
-  }
+  }, 
+
+  {
+    "name": "Thor",
+    "imageUrl": "https://www.brawlhalla.com/c/uploads/2019/05/Thor.png",
+    "lat": 55.67025,
+    "lng": 10.33333,
+    "color": "#CDFBFF"
+  },
+
 ]
