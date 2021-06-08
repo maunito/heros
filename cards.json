@@ -4,7 +4,7 @@
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Bodvar-1.png",
     "lat": 64.5783089,
     "lng": 17.888237,
-    "color": "blue"
+    "color": "#D5FFD4"
   },
   {
     "name": "Mirage",
@@ -18,13 +18,13 @@
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Nai.png",
     "lat": -1.7929665,
     "lng": -78.1368875,
-    "color": "green"
+    "color": "#FF9AFF"
   },
   {
     "name": "Hattori",
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Hattori.png",
     "lat": 37.4900318,
     "lng": 136.4664008,
-    "color": "purple"
+    "color": "#DA394F"
   }
 ]
