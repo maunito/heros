@@ -26,5 +26,13 @@
     "lat": 37.4900318,
     "lng": 136.4664008,
     "color": "#DA394F"
+  }, 
+
+  {
+    "name": "Lin Fei",
+    "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Lin-Fei.png",
+    "lat": 35.8592948,
+    "lng": 104.1361118,
+    "color": "#DA394F"
   }
 ]
