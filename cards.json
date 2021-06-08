@@ -33,6 +33,14 @@
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Lin-Fei.png",
     "lat": 35.8592948,
     "lng": 104.1361118,
-    "color": "#DA394F"
+    "color": "#EAEE4E"
+  }, 
+
+  {
+    "name": "Petra",
+    "imageUrl": "https://www.brawlhalla.com/c/uploads/2019/07/petra-card.png",
+    "lat": 51.1642292,
+    "lng": 10.4541194,
+    "color": "#FE1DFE"
   }
 ]
