@@ -18,6 +18,15 @@
   },
 
   {
+    "name": "Orion",
+    "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Orion.png",
+    "lat": 83.867616,
+    "lng": 172.935818,
+    "color": "#FFD85D", 
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2015/11/OrionCard.png"
+  },
+
+  {
     "name": "Mirage",
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Mirage.png",
     "lat": 46.71109,
