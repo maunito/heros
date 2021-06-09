@@ -13,7 +13,8 @@
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Mirage.png",
     "lat": 46.71109,
     "lng": 1.7191036,
-    "color": "#f4cf77"
+    "color": "#f4cf77",
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2017/01/mirage_brawlhalla_card.jpg"
   },
 
   {
@@ -21,7 +22,8 @@
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Nai.png",
     "lat": -1.7929665,
     "lng": -78.1368875,
-    "color": "#FF9AFF"
+    "color": "#FF9AFF",
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2017/01/mirage_brawlhalla_card.jpg"
   },
   
   {
@@ -29,7 +31,8 @@
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Hattori.png",
     "lat": 37.4900318,
     "lng": 136.4664008,
-    "color": "#DA394F"
+    "color": "#DA394F", 
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2017/01/mirage_brawlhalla_card.jpg"
   }, 
 
   {
@@ -37,7 +40,8 @@
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Lin-Fei.png",
     "lat": 35.8592948,
     "lng": 104.1361118,
-    "color": "#EAEE4E"
+    "color": "#EAEE4E", 
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2017/01/mirage_brawlhalla_card.jpg"
   }, 
 
   {
@@ -45,7 +49,8 @@
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2019/07/petra-card.png",
     "lat": 51.1642292,
     "lng": 10.4541194,
-    "color": "#FE1DFE"
+    "color": "#FE1DFE", 
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2017/01/mirage_brawlhalla_card.jpg"
   }, 
 
   {
@@ -53,7 +58,8 @@
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2019/05/Thor.png",
     "lat": 55.67025,
     "lng": 10.33333,
-    "color": "#CDFBFF"
+    "color": "#CDFBFF", 
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2017/01/mirage_brawlhalla_card.jpg"
   }, 
 
   {
@@ -61,7 +67,8 @@
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2019/12/LegendSPLASHCard_Volkov.jpg",
     "lat": 45.98521,
     "lng": 24.68592,
-    "color": "#DCCFFB"
+    "color": "#DCCFFB", 
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2017/01/mirage_brawlhalla_card.jpg"
   },
 
   {
@@ -69,7 +76,8 @@
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2020/10/Mako_650x1080.jpg",
     "lat": 26.946899,
     "lng": -169.161078,
-    "color": "#56FFE4" 
+    "color": "#56FFE4", 
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2017/01/mirage_brawlhalla_card.jpg" 
   }
 
 
