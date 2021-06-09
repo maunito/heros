@@ -53,6 +53,14 @@
     "lat": 55.67025,
     "lng": 10.33333,
     "color": "#CDFBFF"
+  }, 
+
+  {
+    "name": "Volkov",
+    "imageUrl": "https://www.brawlhalla.com/c/uploads/2019/12/LegendSPLASHCard_Volkov.jpg",
+    "lat": 45.98521,
+    "lng": 24.68592,
+    "color": "#DCCFFB"
   }
 
 ]
