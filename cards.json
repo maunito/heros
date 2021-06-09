@@ -9,6 +9,15 @@
   },
 
   {
+    "name": "Cassidy",
+    "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Cassidy.png",
+    "lat": 31.000000,
+    "lng": -100.000000,
+    "color": "#EDCFA5", 
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2015/11/Cassidy.png"
+  },
+
+  {
     "name": "Mirage",
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Mirage.png",
     "lat": 46.71109,
