@@ -23,7 +23,7 @@
     "lat": -1.7929665,
     "lng": -78.1368875,
     "color": "#FF9AFF",
-    "mapImage": "https://www.brawlhalla.com/c/uploads/2017/01/mirage_brawlhalla_card.jpg"
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2015/11/QueenNaiCard.png"
   },
   
   {
@@ -32,7 +32,7 @@
     "lat": 37.4900318,
     "lng": 136.4664008,
     "color": "#DA394F", 
-    "mapImage": "https://www.brawlhalla.com/c/uploads/2017/01/mirage_brawlhalla_card.jpg"
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2015/11/HattoriCard.jpg"
   }, 
 
   {
@@ -41,7 +41,7 @@
     "lat": 35.8592948,
     "lng": 104.1361118,
     "color": "#EAEE4E", 
-    "mapImage": "https://www.brawlhalla.com/c/uploads/2017/01/mirage_brawlhalla_card.jpg"
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2018/07/linfeicard-1.png"
   }, 
 
   {
@@ -50,12 +50,12 @@
     "lat": 51.1642292,
     "lng": 10.4541194,
     "color": "#FE1DFE", 
-    "mapImage": "https://www.brawlhalla.com/c/uploads/2017/01/mirage_brawlhalla_card.jpg"
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2019/07/petracard.png"
   }, 
 
   {
     "name": "Thor",
-    "imageUrl": "https://www.brawlhalla.com/c/uploads/2019/05/Thor.png",
+    "imageUrl": "https://www.brawlhalla.com/c/uploads/2019/05/thorcard.jpg",
     "lat": 55.67025,
     "lng": 10.33333,
     "color": "#CDFBFF", 
@@ -68,12 +68,12 @@
     "lat": 45.98521,
     "lng": 24.68592,
     "color": "#DCCFFB", 
-    "mapImage": "https://www.brawlhalla.com/c/uploads/2017/01/mirage_brawlhalla_card.jpg"
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2019/12/LegendSTATCard_Volkov-1.jpg"
   },
 
   {
     "name": "Mako",
-    "imageUrl": "https://www.brawlhalla.com/c/uploads/2020/10/Mako_650x1080.jpg",
+    "imageUrl": "https://www.brawlhalla.com/c/uploads/2020/10/MakoSTATS_650x1080.jpg",
     "lat": 26.946899,
     "lng": -169.161078,
     "color": "#56FFE4", 
