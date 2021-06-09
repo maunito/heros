@@ -4,7 +4,8 @@
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Bodvar-1.png",
     "lat": 64.5783089,
     "lng": 17.888237,
-    "color": "#D5FFD4"
+    "color": "#D5FFD4", 
+    "mapImage": "https://www.brawlhalla.com/c/uploads/2015/11/BodvarCardNoBorder.png"
   },
 
   {
@@ -68,7 +69,7 @@
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2020/10/Mako_650x1080.jpg",
     "lat": 26.946899,
     "lng": -169.161078,
-    "color": "#56FFE4"
+    "color": "#56FFE4" 
   }
 
 
