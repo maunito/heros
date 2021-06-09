@@ -6,6 +6,7 @@
     "lng": 17.888237,
     "color": "#D5FFD4"
   },
+
   {
     "name": "Mirage",
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Mirage.png",
@@ -13,6 +14,7 @@
     "lng": 1.7191036,
     "color": "#f4cf77"
   },
+
   {
     "name": "Queen Nai",
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Nai.png",
@@ -20,6 +22,7 @@
     "lng": -78.1368875,
     "color": "#FF9AFF"
   },
+  
   {
     "name": "Hattori",
     "imageUrl": "https://www.brawlhalla.com/c/uploads/2018/11/Hattori.png",
